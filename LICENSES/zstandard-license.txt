@@ -1,6 +1,8 @@
 facebook / zstd
 https://github.com/facebook/zstd
 
+--------------------------------------------------------------------------------
+
 BSD License
 
 For Zstandard software

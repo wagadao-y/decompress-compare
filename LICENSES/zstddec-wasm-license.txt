@@ -1,6 +1,8 @@
 donmccurdy / zstddec-wasm
 https://github.com/donmccurdy/zstddec-wasm
 
+--------------------------------------------------------------------------------
+
 The MIT License (MIT)
 
 Copyright (c) 2020 Don McCurdy
